@@ -1,7 +1,9 @@
 const multiplication = (a, b) => {
+//Multiplication
     return a * b
 }
 const devision = (a, b) => {
+//division
     return a / b
 }
 
